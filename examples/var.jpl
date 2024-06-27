@@ -1,0 +1,5 @@
+START *var {
+    DEFINE name1 John Doe
+    DEFINE name2 Jane Doe
+    DISPLAY name1 name2
+} END *var

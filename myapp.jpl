@@ -1,0 +1,4 @@
+START *myapp {
+    DEFINE a Hello, I am Jake. I am the creator of JPL language. JPL was build in Python and syntaxes are match to C and COBOL also python good luck with this JPL.
+        DISPLAY a
+} END *myapp

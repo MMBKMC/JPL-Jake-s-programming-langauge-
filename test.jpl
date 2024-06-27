@@ -1,0 +1,4 @@
+START *test {
+    DISPLAY Hello, World!
+    DISPLAY Goodbye, World!
+}END *test

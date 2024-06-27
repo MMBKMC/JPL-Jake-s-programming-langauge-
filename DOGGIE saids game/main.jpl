@@ -1,0 +1,14 @@
+START *game {
+    DISPLAY |-----------------------|
+    DISPLAY |DOGGIE saids stands up.|
+    DISPLAY |__________________     |
+    DISPLAY                    \     \
+    DISPLAY                      \   \
+    DISPLAY                        \_/
+    DISPLAY
+    DISPLAY                   /\
+    DISPLAY         /---------  \
+    DISPLAY    .----- (0)        \
+    DISPLAY    |-----            |
+    DISPLAY    ----------\       \
+} END *game

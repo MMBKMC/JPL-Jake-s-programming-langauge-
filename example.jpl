@@ -1,0 +1,10 @@
+START *example {
+    DEFINE a Loop, Spoop
+    DEFINE b Greeting Universe!
+        DISPLAY b
+    DISPLAY a
+    DISPLAY a
+    DISPLAY a
+    DISPLAY a
+    DISPLAY a
+} END *example

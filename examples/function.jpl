@@ -1,0 +1,4 @@
+START *function {
+    DISPLAY Hello, World!
+    DISPLAY Goodbye, World!
+} END *function

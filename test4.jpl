@@ -1,0 +1,7 @@
+START *test4 {
+    DEFINE radius [320.390 km]
+    DEFINE max_value mass
+    DEFINE mass [3.00 moon]
+        DISPLAY mass
+        DISPLAY radius
+} END *test4

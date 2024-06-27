@@ -1,0 +1,14 @@
+# example_program.jpl
+
+START *example_program {
+
+    # Display a welcome message
+    DISPLAY "Welcome to the JPL Example Program!"
+
+    # Display a simple message
+    DISPLAY "Hello, World!"
+
+    # Display a goodbye message
+    DISPLAY "Goodbye, World!"
+
+} END *example_program

@@ -1,0 +1,8 @@
+START *test1 {
+    DEFINE a 101
+    DEFINE b 100
+    DEFINE c 110
+    DISPLAY a
+    DISPLAY b
+    DISPLAY c
+}END *test1

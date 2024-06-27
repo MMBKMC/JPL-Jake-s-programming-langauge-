@@ -1,0 +1,4 @@
+START *main {
+    DEFINE name John
+    DISPLAY name
+} END *main
